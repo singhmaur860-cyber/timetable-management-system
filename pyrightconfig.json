@@ -1,0 +1,20 @@
+{
+  "include": [
+    "backend",
+    "tests",
+    "seed.py"
+  ],
+  "extraPaths": [
+    ".",
+    "backend"
+  ],
+  "typeCheckingMode": "basic",
+  "reportArgumentType": "none",
+  "reportAttributeAccessIssue": "none",
+  "reportGeneralTypeIssues": "none",
+  "reportReturnType": "none",
+  "reportOptionalSubscript": "none",
+  "reportOptionalMemberAccess": "none",
+  "reportAssignmentType": "none",
+  "reportCallIssue": "none"
+}
