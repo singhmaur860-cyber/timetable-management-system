@@ -127,12 +127,6 @@ Requirements: Python 3.12+
    python -m uvicorn backend.app.main:app --host 127.0.0.1 --port 8000 --reload
    ```
 
-5. **Open Browser**:
-   - Access the platform at: [http://localhost:8000](http://localhost:8000)
-   - Interactive API Docs: [http://localhost:8000/api/docs](http://localhost:8000/api/docs)
-   - Health Check: [http://localhost:8000/health](http://localhost:8000/health)
-
----
 
 ### Option 2: Docker Compose (Production Environment)
 
